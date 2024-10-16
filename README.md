@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @grandemassone
-- 👀 I’m interested in HTML5, CSS3, JS...
-- 🌱 I’m currently learning html and css
+- 👀 I’m interested in every languages
+- 🌱 I’m currently learning Java in university
 - 📫 How to reach me, davide10internet@gmail.com or @losherlock <!--INSTAGRAM--!>
