@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @grandemassone
 - 👀 I’m interested in every languages
-- 🌱 I’m currently learning Java in university
-- 📫 How to reach me, davide10internet@gmail.com or @losherlock <!--INSTAGRAM--!>
+- 🌱 I’m currently learning many languages in university
+- 📫 How to reach me, davide10internet@gmail.com
