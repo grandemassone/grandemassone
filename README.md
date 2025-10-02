@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Davide
+# 👋 Hi, I'm Salvador Davide
 
 🎓 Computer Science student @ UNISA (Italy)  
 💻 Interested in Software Engineering, Mobile Development, and Web Technologies  
