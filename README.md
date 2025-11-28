@@ -4,31 +4,38 @@
 🚀 **Aspiring Software Engineer** | Focusing on Backend Development & IT Management
 🌍 Based in Italy, open to international opportunities
 
-I am a passionate developer currently working on my bachelor's thesis and an internship focused on **AI & Automation** (building intelligent chatbots). My goal is to design scalable software solutions and master modern architectural patterns.
+I am currently working as a **Full Stack Developer Intern** at **WeBeetle srl**, building an interactive Chatbot prototype.
+My core focus is on **Enterprise Java** (Spring Boot) and modern Frontend architectures.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### ☕ Backend & Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### ⚙️ Backend & Frameworks
-* **Java Ecosystem:** MVC, JSP/Servlets, Maven, Gradle
-* **Web Technologies:** HTML5, CSS3, XML
-* **Mobile:** Android Development
-
-### 🧰 Tools & Databases
+### 🧰 Tools & Database
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 ---
 
-## 📬 Contact Me
+## 🔭 Current Project: Interactive Chatbot
+I am developing a full-stack chatbot simulator that features:
+* **Backend:** Java Spring Boot REST APIs to handle business logic.
+* **Frontend:** ReactJS interface with TailwindCSS for responsive design.
+* **Logic:** Real-time simulation of human typing behavior and dynamic responses.
 
+---
+
+## 📬 Contact Me
 * 📧 **Email:** [salvadordavide.passarelli.dev@outlook.com](mailto:salvadordavide.passarelli.dev@outlook.com)
-* 💼 **LinkedIn:** [Salvador Davide Passarelli](#) ```
+* 💼 **LinkedIn:** [Salvador Davide Passarelli](#)
