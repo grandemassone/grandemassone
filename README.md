@@ -38,4 +38,4 @@ I am developing a full-stack chatbot simulator that features:
 
 ## 📬 Contact Me
 * 📧 **Email:** [salvadordavide.passarelli.dev@outlook.com](mailto:salvadordavide.passarelli.dev@outlook.com)
-* 💼 **LinkedIn:** [Salvador Davide Passarelli](#)
+* 💼 **LinkedIn:** [Salvador Davide Passarelli](https://www.linkedin.com/in/salvador-davide-passarelli/)
