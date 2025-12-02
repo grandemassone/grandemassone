@@ -1,38 +1,39 @@
 # 👋 Hi, I'm Salvador Davide Passarelli
 
 🎓 **Computer Science Student** @ University of Salerno (UNISA)
-🚀 **Aspiring Software Engineer** | Focusing on Backend Development & IT Management
-🌍 Based in Italy, open to international opportunities
+🚀 **Aspiring Software Engineer** | Focusing on Modern Full-Stack Development & FinTech
+🌍 Based in Italy, open to international opportunities (Target: Switzerland 🇨🇭)
 
-I am currently working as a **Full Stack Developer Intern** at **WeBeetle srl**, building an interactive Chatbot prototype.
-My core focus is on **Enterprise Java** (Spring Boot) and modern Frontend architectures.
+I am currently working as a **Software Developer Intern** at **WeBeetle srl**, building an AI-powered Banking Assistant.
+My core focus has shifted to **High-Performance Node.js** architectures and **Type-Safe Frontend** development.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☕ Backend & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+### 🚀 Backend & AI
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🧰 Tools & Database
+### 🧰 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 ---
 
-## 🔭 Current Project: Interactive Chatbot
-I am developing a full-stack chatbot simulator that features:
-* **Backend:** Java Spring Boot REST APIs to handle business logic.
-* **Frontend:** ReactJS interface with TailwindCSS for responsive design.
-* **Logic:** Real-time simulation of human typing behavior and dynamic responses.
+## 🏦 Current Project: AI Banking Assistant
+I am developing a secure, full-stack financial chatbot designed to simulate private banking services.
+* **Backend:** Built with **Fastify** (Node.js) for low-latency responses, integrated with **PostgreSQL**.
+* **AI Logic:** LLM integration with strict system prompting to ensure financial accuracy and security.
+* **Frontend:** Modern interface built with **React, TypeScript, and TailwindCSS**, managed via **Vite**.
 
 ---
 
