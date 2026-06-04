@@ -4,7 +4,7 @@
 🚀 **Aspiring Software Engineer** | Focusing on Modern Full-Stack Development & FinTech
 🌍 Based in Italy, open to international opportunities (Target: Switzerland 🇨🇭)
 
-I am currently working as a **Software Developer Intern** at **WeBeetle srl**, building an AI-powered Banking Assistant.
+Completed a 5-month internship as a **Software Developer Intern** at **WeBeetle srl**, building an AI-powered Banking Assistant.
 My core focus has shifted to **High-Performance Node.js** architectures and **Type-Safe Frontend** development.
 
 ---
