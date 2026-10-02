@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salvador Davide Passarelli
 
-🎓 **M.Sc. Student in Computer Science (Software Engineering & IT Management)** @ University of Salerno (UNISA) | *B.Sc. in Computer Science*
+🎓 **M.Sc. Student in Computer Science (Software Engineering & IT Management)** @University of Salerno (UNISA) | *B.Sc. in Computer Science*
 🚀 **Software Engineer** | Focusing on Modern Full-Stack Architectures, IT Management & FinTech
 🌍 Based in Italy, open to international opportunities (Target: Switzerland 🇨🇭)
 
