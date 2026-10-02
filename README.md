@@ -1,11 +1,8 @@
 # 👋 Hi, I'm Salvador Davide Passarelli
 
-🎓 **Computer Science Student** @ University of Salerno (UNISA)
-🚀 **Aspiring Software Engineer** | Focusing on Modern Full-Stack Development & FinTech
+🎓 **M.Sc. Student in Computer Science (Software Engineering & IT Management)** @ University of Salerno (UNISA) | *B.Sc. in Computer Science*
+🚀 **Software Engineer** | Focusing on Modern Full-Stack Architectures, IT Management & FinTech
 🌍 Based in Italy, open to international opportunities (Target: Switzerland 🇨🇭)
-
-Completed a 5-month internship as a **Software Developer Intern** at **WeBeetle srl**, building an AI-powered Banking Assistant.
-My core focus has shifted to **High-Performance Node.js** architectures and **Type-Safe Frontend** development.
 
 ---
 
@@ -29,11 +26,13 @@ My core focus has shifted to **High-Performance Node.js** architectures and **Ty
 
 ---
 
-## 🏦 Current Project: AI Banking Assistant
-I am developing a secure, full-stack financial chatbot designed to simulate private banking services.
-* **Backend:** Built with **Fastify** (Node.js) for low-latency responses, integrated with **PostgreSQL**.
-* **AI Logic:** LLM integration with strict system prompting to ensure financial accuracy and security.
-* **Frontend:** Modern interface built with **React, TypeScript, and TailwindCSS**, managed via **Vite**.
+## 🏆 Featured Projects
+
+### 🏦 BankBot — AI Banking Assistant
+A secure, full-stack financial conversational agent developed during my internship at WeBeetle to automate and simulate private banking operations.
+* **Backend:** Engineered with **Fastify** (Node.js) for low-latency REST APIs and real-time data handling, backed by **PostgreSQL**.
+* **AI Architecture:** Custom LLM integration featuring strict system prompting, context management, and guardrails to ensure financial accuracy and security.
+* **Frontend:** Responsive, type-safe interface built with **React, TypeScript, and TailwindCSS**, bundled via **Vite**.
 
 ---
 
